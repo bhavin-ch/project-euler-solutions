@@ -1,9 +1,12 @@
 # Multiples of 3 and 5
 
-Problem 1
+## Problem 1
+
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
 Find the sum of all the multiples of 3 or 5 below 1000.
+
+## Solution 1
 
 Our approach is: 
 1. We take an array of 1...N => we make an array containing anything, it's indices will be an array of 0...N-1. We want N-1 anyways per the question
